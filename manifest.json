@@ -1,0 +1,1 @@
+{"name":"Weight Tracker","short_name":"Weight","description":"Simple private weight tracker","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#101827","theme_color":"#101827","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
